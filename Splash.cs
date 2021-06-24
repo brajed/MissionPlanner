@@ -25,5 +25,10 @@ namespace MissionPlanner
 
             Console.WriteLine("Splash .ctor");
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
